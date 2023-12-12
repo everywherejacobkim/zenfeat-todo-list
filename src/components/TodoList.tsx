@@ -50,7 +50,7 @@ const TodoList: React.FC = () => {
   return (
     <div className="w-[100%] lg:w-[50%] bg-primary flex flex-col justify-between px-8 lg:px-16 py-8 rounded-xl">
         <div>
-            <h1 className="text-4xl font-bold">Todo list</h1>
+            <h1 className="text-4xl font-bold">Todo List</h1>
         </div>
         <div className="h-full overflow-y-auto">
             <div className="flex flex-col pt-2">
